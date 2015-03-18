@@ -1,0 +1,1 @@
+This project is a group project for ECE387. In this project, we made a drawing board, a kinect controlled MP3 player by using Kinect, TFT touch screen, Arduino Mega 2560, Arduino Uno, and MP3 shield. I also merged my individual project into this project, but the detail of my individual project will be addressed in another google code page.
